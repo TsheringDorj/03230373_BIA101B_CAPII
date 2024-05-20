@@ -1,5 +1,6 @@
 **Personal Income Tax Calculator
 **
+
 Introduction
 
 Property owners and homeowners benefit from the PIT (Property Income Tax) auto calculator, which makes the process of calculating property taxes easier. 
